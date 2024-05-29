@@ -1,0 +1,17 @@
+{
+  "name": "task2-backend",
+  "version": "1.0.0",
+  "description": "**Objective**: Set up a simple Express server with basic CRUD operations for managing users and their tasks.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
+  }
+}
